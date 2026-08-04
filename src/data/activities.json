@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Hiking",
+    "physicalStrain": 4,
+    "coordinationRequired": 2,
+    "minParticipants": 1,
+    "maxParticipants": 20,
+    "cost": "Free",
+    "travelRequired": "Yes",
+    "timeRequired": "2-6 hours",
+    "fun": 5,
+    "replayability": 5,
+    "learnFromIt": "Yes",
+    "socialConnection": "Yes",
+    "relatedActivities": ["Trail Running", "Rock Climbing", "Camping"],
+    "getsHeartRateUp": "Yes",
+    "canDoOutside": "Yes"
+  },
+  {
+    "id": 14,
+    "name": "Camping",
+    "physicalStrain": 3,
+    "coordinationRequired": 2,
+    "minParticipants": 1,
+    "maxParticipants": 15,
+    "cost": "$10-50/night",
+    "travelRequired": "Yes",
+    "timeRequired": "1-3 days",
+    "fun": 5,
+    "replayability": 5,
+    "learnFromIt": "Yes",
+    "socialConnection": "Yes",
+    "relatedActivities": ["Hiking", "Fishing", "Stargazing"],
+    "getsHeartRateUp": "No",
+    "canDoOutside": "Yes"
+  }
+]
