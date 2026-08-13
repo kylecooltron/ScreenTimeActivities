@@ -73,6 +73,10 @@
             <span class="detail-label">Travel needed</span>
             <span class="detail-value">{{ result.travelRequired }}</span>
           </div>
+          <div class="detail-item">
+            <span class="detail-label">Equipment needed</span>
+            <span class="detail-value">{{ result.equipmentNeeded }}</span>
+          </div>
         </div>
         <div class="result-related" v-if="result.relatedActivities.length">
           <span class="detail-label">You might also like:</span>
