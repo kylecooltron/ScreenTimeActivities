@@ -16,7 +16,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Hiking"]
+    "relatedActivities": [
+      "Hiking"
+    ]
   },
   {
     "id": 2,
@@ -35,7 +37,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Camping"]
+    "relatedActivities": [
+      "Camping"
+    ]
   },
   {
     "id": 3,
@@ -54,7 +58,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Spikeball"]
+    "relatedActivities": [
+      "Spikeball"
+    ]
   },
   {
     "id": 4,
@@ -73,7 +79,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "No",
-    "relatedActivities": ["Yoga Class"]
+    "relatedActivities": [
+      "Yoga Class"
+    ]
   },
   {
     "id": 5,
@@ -92,7 +100,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Tennis"]
+    "relatedActivities": [
+      "Tennis"
+    ]
   },
   {
     "id": 6,
@@ -111,7 +121,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Hiking"]
+    "relatedActivities": [
+      "Hiking"
+    ]
   },
   {
     "id": 7,
@@ -130,7 +142,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Board Games"]
+    "relatedActivities": [
+      "Board Games"
+    ]
   },
   {
     "id": 8,
@@ -149,7 +163,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Card Games"]
+    "relatedActivities": [
+      "Card Games"
+    ]
   },
   {
     "id": 9,
@@ -168,7 +184,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Board Games"]
+    "relatedActivities": [
+      "Board Games"
+    ]
   },
   {
     "id": 10,
@@ -187,7 +205,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Karaoke"]
+    "relatedActivities": [
+      "Karaoke"
+    ]
   },
   {
     "id": 11,
@@ -206,7 +226,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Trivia Night"]
+    "relatedActivities": [
+      "Trivia Night"
+    ]
   },
   {
     "id": 12,
@@ -225,7 +247,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "No",
-    "relatedActivities": ["Bouldering"]
+    "relatedActivities": [
+      "Bouldering"
+    ]
   },
   {
     "id": 13,
@@ -244,7 +268,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "No",
-    "relatedActivities": ["Rock Climbing"]
+    "relatedActivities": [
+      "Rock Climbing"
+    ]
   },
   {
     "id": 14,
@@ -263,7 +289,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "No",
-    "relatedActivities": ["Meditation"]
+    "relatedActivities": [
+      "Meditation"
+    ]
   },
   {
     "id": 15,
@@ -282,7 +310,9 @@
     "socialConnection": "No",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Yoga"]
+    "relatedActivities": [
+      "Yoga"
+    ]
   },
   {
     "id": 16,
@@ -301,7 +331,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Hiking"]
+    "relatedActivities": [
+      "Hiking"
+    ]
   },
   {
     "id": 17,
@@ -320,7 +352,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Hiking"]
+    "relatedActivities": [
+      "Hiking"
+    ]
   },
   {
     "id": 18,
@@ -339,7 +373,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Farmers Market"]
+    "relatedActivities": [
+      "Farmers Market"
+    ]
   },
   {
     "id": 19,
@@ -358,7 +394,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Food Truck Crawl"]
+    "relatedActivities": [
+      "Food Truck Crawl"
+    ]
   },
   {
     "id": 20,
@@ -377,7 +415,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Bowling"]
+    "relatedActivities": [
+      "Bowling"
+    ]
   },
   {
     "id": 21,
@@ -396,7 +436,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Mini Golf"]
+    "relatedActivities": [
+      "Mini Golf"
+    ]
   },
   {
     "id": 22,
@@ -415,7 +457,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Spikeball"]
+    "relatedActivities": [
+      "Spikeball"
+    ]
   },
   {
     "id": 23,
@@ -434,7 +478,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Volleyball"]
+    "relatedActivities": [
+      "Volleyball"
+    ]
   },
   {
     "id": 24,
@@ -453,7 +499,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Soccer"]
+    "relatedActivities": [
+      "Soccer"
+    ]
   },
   {
     "id": 25,
@@ -472,7 +520,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Ultimate Frisbee"]
+    "relatedActivities": [
+      "Ultimate Frisbee"
+    ]
   },
   {
     "id": 26,
@@ -491,7 +541,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Hackathon"]
+    "relatedActivities": [
+      "Hackathon"
+    ]
   },
   {
     "id": 27,
@@ -510,7 +562,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Coding Game Jam"]
+    "relatedActivities": [
+      "Coding Game Jam"
+    ]
   },
   {
     "id": 28,
@@ -529,7 +583,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Escape Room"]
+    "relatedActivities": [
+      "Escape Room"
+    ]
   },
   {
     "id": 29,
@@ -548,7 +604,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Painting"]
+    "relatedActivities": [
+      "Painting"
+    ]
   },
   {
     "id": 30,
@@ -567,7 +625,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Pottery"]
+    "relatedActivities": [
+      "Pottery"
+    ]
   },
   {
     "id": 31,
@@ -586,7 +646,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Baking"]
+    "relatedActivities": [
+      "Baking"
+    ]
   },
   {
     "id": 32,
@@ -605,7 +667,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Cooking"]
+    "relatedActivities": [
+      "Cooking"
+    ]
   },
   {
     "id": 33,
@@ -624,7 +688,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Camping"]
+    "relatedActivities": [
+      "Camping"
+    ]
   },
   {
     "id": 34,
@@ -643,7 +709,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Hiking"]
+    "relatedActivities": [
+      "Hiking"
+    ]
   },
   {
     "id": 35,
@@ -662,7 +730,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Badminton"]
+    "relatedActivities": [
+      "Badminton"
+    ]
   },
   {
     "id": 36,
@@ -681,7 +751,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Pickleball"]
+    "relatedActivities": [
+      "Pickleball"
+    ]
   },
   {
     "id": 37,
@@ -700,26 +772,7 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "No",
-    "relatedActivities": ["Squash"]
-  },
-  {
-    "id": 38,
-    "name": "Squash",
-    "physicalStrain": 4,
-    "coordinationRequired": 4,
-    "minParticipants": 2,
-    "maxParticipants": 2,
-    "cost": "$20.00",
-    "travelRequired": "Yes",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "1:00:00",
-    "fun": 4,
-    "replayability": 5,
-    "learnFromIt": "No",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "Yes",
-    "canDoOutside": "No",
-    "relatedActivities": ["Racquetball"]
+    "relatedActivities": []
   },
   {
     "id": 39,
@@ -738,7 +791,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Horseshoes"]
+    "relatedActivities": [
+      "Horseshoes"
+    ]
   },
   {
     "id": 40,
@@ -757,7 +812,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Cornhole"]
+    "relatedActivities": [
+      "Cornhole"
+    ]
   },
   {
     "id": 41,
@@ -776,7 +833,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Ultimate Frisbee"]
+    "relatedActivities": [
+      "Ultimate Frisbee"
+    ]
   },
   {
     "id": 42,
@@ -795,7 +854,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "No",
-    "relatedActivities": ["Paintball"]
+    "relatedActivities": [
+      "Paintball"
+    ]
   },
   {
     "id": 43,
@@ -814,26 +875,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Laser Tag"]
-  },
-  {
-    "id": 44,
-    "name": "Airsoft",
-    "physicalStrain": 4,
-    "coordinationRequired": 4,
-    "minParticipants": 4,
-    "maxParticipants": 30,
-    "cost": "$40.00",
-    "travelRequired": "Yes",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "3:00:00",
-    "fun": 5,
-    "replayability": 5,
-    "learnFromIt": "No",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "Yes",
-    "canDoOutside": "Yes",
-    "relatedActivities": ["Paintball"]
+    "relatedActivities": [
+      "Laser Tag"
+    ]
   },
   {
     "id": 45,
@@ -852,7 +896,9 @@
     "socialConnection": "No",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Axe Throwing"]
+    "relatedActivities": [
+      "Axe Throwing"
+    ]
   },
   {
     "id": 46,
@@ -871,7 +917,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Archery"]
+    "relatedActivities": [
+      "Archery"
+    ]
   },
   {
     "id": 47,
@@ -890,7 +938,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Camping"]
+    "relatedActivities": [
+      "Camping"
+    ]
   },
   {
     "id": 48,
@@ -909,7 +959,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Canoeing"]
+    "relatedActivities": [
+      "Canoeing"
+    ]
   },
   {
     "id": 49,
@@ -928,7 +980,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Kayaking"]
+    "relatedActivities": [
+      "Kayaking"
+    ]
   },
   {
     "id": 50,
@@ -947,7 +1001,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Kayaking"]
+    "relatedActivities": [
+      "Kayaking"
+    ]
   },
   {
     "id": 51,
@@ -966,7 +1022,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Hiking"]
+    "relatedActivities": [
+      "Hiking"
+    ]
   },
   {
     "id": 52,
@@ -985,45 +1043,11 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Snowshoeing"]
-  },
-  {
-    "id": 53,
-    "name": "Sledding",
-    "physicalStrain": 2,
-    "coordinationRequired": 1,
-    "minParticipants": 1,
-    "maxParticipants": 20,
-    "cost": "$10.00",
-    "travelRequired": "Yes",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "2:00:00",
-    "fun": 5,
-    "replayability": 5,
-    "learnFromIt": "No",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "Yes",
-    "canDoOutside": "Yes",
-    "relatedActivities": ["Snowball Fight"]
-  },
-  {
-    "id": 54,
-    "name": "Snowball Fight",
-    "physicalStrain": 3,
-    "coordinationRequired": 2,
-    "minParticipants": 2,
-    "maxParticipants": 20,
-    "cost": "$0.00",
-    "travelRequired": "Yes",
-    "equipmentNeeded": "No",
-    "timeRequired": "1:00:00",
-    "fun": 5,
-    "replayability": 5,
-    "learnFromIt": "No",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "Yes",
-    "canDoOutside": "Yes",
-    "relatedActivities": ["Sledding"]
+    "relatedActivities": [
+      "Snowshoeing",
+      "Skiing",
+      "Snowboarding"
+    ]
   },
   {
     "id": 55,
@@ -1042,7 +1066,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "No",
-    "relatedActivities": ["Roller Skating"]
+    "relatedActivities": [
+      "Roller Skating"
+    ]
   },
   {
     "id": 56,
@@ -1061,26 +1087,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "No",
-    "relatedActivities": ["Ice Skating"]
-  },
-  {
-    "id": 57,
-    "name": "Rollerblading",
-    "physicalStrain": 3,
-    "coordinationRequired": 3,
-    "minParticipants": 1,
-    "maxParticipants": 10,
-    "cost": "$0.00",
-    "travelRequired": "No",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "1:30:00",
-    "fun": 4,
-    "replayability": 5,
-    "learnFromIt": "No",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "Yes",
-    "canDoOutside": "Yes",
-    "relatedActivities": ["Bike Ride"]
+    "relatedActivities": [
+      "Ice Skating"
+    ]
   },
   {
     "id": 58,
@@ -1099,7 +1108,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Scootering"]
+    "relatedActivities": [
+      "Scootering"
+    ]
   },
   {
     "id": 59,
@@ -1118,7 +1129,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Skateboarding"]
+    "relatedActivities": [
+      "Skateboarding"
+    ]
   },
   {
     "id": 60,
@@ -1137,7 +1150,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Disc Golf"]
+    "relatedActivities": [
+      "Disc Golf"
+    ]
   },
   {
     "id": 61,
@@ -1156,7 +1171,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Picnic"]
+    "relatedActivities": [
+      "Picnic"
+    ]
   },
   {
     "id": 62,
@@ -1175,7 +1192,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Kite Flying"]
+    "relatedActivities": [
+      "Kite Flying"
+    ]
   },
   {
     "id": 63,
@@ -1194,7 +1213,9 @@
     "socialConnection": "No",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Photography Walk"]
+    "relatedActivities": [
+      "Photography Walk"
+    ]
   },
   {
     "id": 64,
@@ -1213,7 +1234,9 @@
     "socialConnection": "No",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Bird Watching"]
+    "relatedActivities": [
+      "Bird Watching"
+    ]
   },
   {
     "id": 65,
@@ -1232,26 +1255,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Hiking"]
-  },
-  {
-    "id": 66,
-    "name": "Community Gardening",
-    "physicalStrain": 2,
-    "coordinationRequired": 2,
-    "minParticipants": 1,
-    "maxParticipants": 20,
-    "cost": "$0.00",
-    "travelRequired": "Yes",
-    "equipmentNeeded": "No",
-    "timeRequired": "2:00:00",
-    "fun": 4,
-    "replayability": 5,
-    "learnFromIt": "Yes",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "Yes",
-    "canDoOutside": "Yes",
-    "relatedActivities": ["Gardening"]
+    "relatedActivities": [
+      "Hiking"
+    ]
   },
   {
     "id": 67,
@@ -1270,7 +1276,7 @@
     "socialConnection": "No",
     "getsHeartRateUp": "No",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Community Gardening"]
+    "relatedActivities": []
   },
   {
     "id": 68,
@@ -1289,7 +1295,7 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Community Gardening"]
+    "relatedActivities": []
   },
   {
     "id": 69,
@@ -1308,64 +1314,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["Hiking"]
-  },
-  {
-    "id": 70,
-    "name": "Scavenger Hunt",
-    "physicalStrain": 2,
-    "coordinationRequired": 3,
-    "minParticipants": 2,
-    "maxParticipants": 20,
-    "cost": "$5.00",
-    "travelRequired": "Yes",
-    "equipmentNeeded": "No",
-    "timeRequired": "2:00:00",
-    "fun": 5,
-    "replayability": 5,
-    "learnFromIt": "Yes",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "Yes",
-    "canDoOutside": "Yes",
-    "relatedActivities": ["Geocaching"]
-  },
-  {
-    "id": 71,
-    "name": "Treasure Hunt",
-    "physicalStrain": 2,
-    "coordinationRequired": 3,
-    "minParticipants": 2,
-    "maxParticipants": 20,
-    "cost": "$10.00",
-    "travelRequired": "No",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "2:00:00",
-    "fun": 5,
-    "replayability": 5,
-    "learnFromIt": "Yes",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "No",
-    "canDoOutside": "Yes",
-    "relatedActivities": ["Scavenger Hunt"]
-  },
-  {
-    "id": 72,
-    "name": "Puzzle Race",
-    "physicalStrain": 1,
-    "coordinationRequired": 2,
-    "minParticipants": 2,
-    "maxParticipants": 12,
-    "cost": "$20.00",
-    "travelRequired": "No",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "1:30:00",
-    "fun": 4,
-    "replayability": 5,
-    "learnFromIt": "Yes",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "No",
-    "canDoOutside": "No",
-    "relatedActivities": ["Board Games"]
+    "relatedActivities": [
+      "Hiking"
+    ]
   },
   {
     "id": 73,
@@ -1384,7 +1335,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Checkers"]
+    "relatedActivities": [
+      "Checkers"
+    ]
   },
   {
     "id": 74,
@@ -1403,7 +1356,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Chess"]
+    "relatedActivities": [
+      "Chess"
+    ]
   },
   {
     "id": 75,
@@ -1422,7 +1377,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Board Games"]
+    "relatedActivities": [
+      "Board Games"
+    ]
   },
   {
     "id": 76,
@@ -1441,7 +1398,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Library Visit"]
+    "relatedActivities": [
+      "Library Visit"
+    ]
   },
   {
     "id": 77,
@@ -1460,7 +1419,9 @@
     "socialConnection": "No",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Book Club"]
+    "relatedActivities": [
+      "Book Club"
+    ]
   },
   {
     "id": 78,
@@ -1479,7 +1440,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Art Gallery"]
+    "relatedActivities": [
+      "Art Gallery"
+    ]
   },
   {
     "id": 79,
@@ -1498,7 +1461,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Museum Visit"]
+    "relatedActivities": [
+      "Museum Visit"
+    ]
   },
   {
     "id": 80,
@@ -1517,7 +1482,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Comedy Show"]
+    "relatedActivities": [
+      "Comedy Show"
+    ]
   },
   {
     "id": 81,
@@ -1536,7 +1503,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Live Theater"]
+    "relatedActivities": [
+      "Live Theater"
+    ]
   },
   {
     "id": 82,
@@ -1555,7 +1524,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Karaoke"]
+    "relatedActivities": [
+      "Karaoke"
+    ]
   },
   {
     "id": 83,
@@ -1574,7 +1545,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Live Music"]
+    "relatedActivities": [
+      "Live Music"
+    ]
   },
   {
     "id": 84,
@@ -1593,7 +1566,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Open Mic Night"]
+    "relatedActivities": [
+      "Open Mic Night"
+    ]
   },
   {
     "id": 85,
@@ -1612,7 +1587,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Comedy Show"]
+    "relatedActivities": [
+      "Comedy Show"
+    ]
   },
   {
     "id": 86,
@@ -1631,7 +1608,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Crafting"]
+    "relatedActivities": [
+      "Crafting"
+    ]
   },
   {
     "id": 87,
@@ -1650,26 +1629,9 @@
     "socialConnection": "No",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Bow Making"]
-  },
-  {
-    "id": 88,
-    "name": "Knitting",
-    "physicalStrain": 1,
-    "coordinationRequired": 2,
-    "minParticipants": 1,
-    "maxParticipants": 10,
-    "cost": "$15.00",
-    "travelRequired": "No",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "2:00:00",
-    "fun": 3,
-    "replayability": 5,
-    "learnFromIt": "Yes",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "No",
-    "canDoOutside": "No",
-    "relatedActivities": ["Crocheting"]
+    "relatedActivities": [
+      "Bow Making"
+    ]
   },
   {
     "id": 89,
@@ -1688,26 +1650,7 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Knitting"]
-  },
-  {
-    "id": 90,
-    "name": "Origami",
-    "physicalStrain": 1,
-    "coordinationRequired": 2,
-    "minParticipants": 1,
-    "maxParticipants": 20,
-    "cost": "$5.00",
-    "travelRequired": "No",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "1:00:00",
-    "fun": 4,
-    "replayability": 5,
-    "learnFromIt": "Yes",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "No",
-    "canDoOutside": "No",
-    "relatedActivities": ["Paper Crafts"]
+    "relatedActivities": []
   },
   {
     "id": 91,
@@ -1726,26 +1669,7 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Origami"]
-  },
-  {
-    "id": 92,
-    "name": "Calligraphy",
-    "physicalStrain": 1,
-    "coordinationRequired": 2,
-    "minParticipants": 1,
-    "maxParticipants": 10,
-    "cost": "$20.00",
-    "travelRequired": "No",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "1:30:00",
-    "fun": 4,
-    "replayability": 5,
-    "learnFromIt": "Yes",
-    "socialConnection": "No",
-    "getsHeartRateUp": "No",
-    "canDoOutside": "No",
-    "relatedActivities": ["Drawing"]
+    "relatedActivities": []
   },
   {
     "id": 93,
@@ -1764,102 +1688,7 @@
     "socialConnection": "No",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Calligraphy"]
-  },
-  {
-    "id": 94,
-    "name": "Jewelry Making",
-    "physicalStrain": 2,
-    "coordinationRequired": 2,
-    "minParticipants": 1,
-    "maxParticipants": 8,
-    "cost": "$30.00",
-    "travelRequired": "No",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "2:00:00",
-    "fun": 4,
-    "replayability": 4,
-    "learnFromIt": "Yes",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "No",
-    "canDoOutside": "No",
-    "relatedActivities": ["Beading"]
-  },
-  {
-    "id": 95,
-    "name": "Beading",
-    "physicalStrain": 1,
-    "coordinationRequired": 2,
-    "minParticipants": 1,
-    "maxParticipants": 8,
-    "cost": "$20.00",
-    "travelRequired": "No",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "1:30:00",
-    "fun": 3,
-    "replayability": 5,
-    "learnFromIt": "Yes",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "No",
-    "canDoOutside": "No",
-    "relatedActivities": ["Jewelry Making"]
-  },
-  {
-    "id": 96,
-    "name": "Soap Making",
-    "physicalStrain": 2,
-    "coordinationRequired": 2,
-    "minParticipants": 1,
-    "maxParticipants": 8,
-    "cost": "$30.00",
-    "travelRequired": "No",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "2:30:00",
-    "fun": 4,
-    "replayability": 4,
-    "learnFromIt": "Yes",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "No",
-    "canDoOutside": "No",
-    "relatedActivities": ["Candle Making"]
-  },
-  {
-    "id": 97,
-    "name": "Candle Making",
-    "physicalStrain": 2,
-    "coordinationRequired": 2,
-    "minParticipants": 1,
-    "maxParticipants": 8,
-    "cost": "$25.00",
-    "travelRequired": "No",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "2:00:00",
-    "fun": 4,
-    "replayability": 5,
-    "learnFromIt": "Yes",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "No",
-    "canDoOutside": "No",
-    "relatedActivities": ["Soap Making"]
-  },
-  {
-    "id": 98,
-    "name": "Home Brewing Soda",
-    "physicalStrain": 2,
-    "coordinationRequired": 2,
-    "minParticipants": 1,
-    "maxParticipants": 8,
-    "cost": "$20.00",
-    "travelRequired": "No",
-    "equipmentNeeded": "Yes",
-    "timeRequired": "2:00:00",
-    "fun": 4,
-    "replayability": 5,
-    "learnFromIt": "Yes",
-    "socialConnection": "Yes",
-    "getsHeartRateUp": "No",
-    "canDoOutside": "No",
-    "relatedActivities": ["Cooking Night"]
+    "relatedActivities": []
   },
   {
     "id": 99,
@@ -1878,7 +1707,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Cooking Night"]
+    "relatedActivities": [
+      "Cooking Night"
+    ]
   },
   {
     "id": 100,
@@ -1897,7 +1728,9 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "No",
     "canDoOutside": "No",
-    "relatedActivities": ["Woodworking"]
+    "relatedActivities": [
+      "Woodworking"
+    ]
   },
   {
     "id": 101,
@@ -1916,6 +1749,198 @@
     "socialConnection": "Yes",
     "getsHeartRateUp": "Yes",
     "canDoOutside": "Yes",
-    "relatedActivities": ["DIY Home Project"]
+    "relatedActivities": [
+      "DIY Home Project"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Snowboarding",
+    "physicalStrain": 4,
+    "coordinationRequired": 4,
+    "minParticipants": 1,
+    "maxParticipants": 20,
+    "cost": "$60.00",
+    "travelRequired": "Yes",
+    "equipmentNeeded": "Yes",
+    "timeRequired": "4:00:00",
+    "fun": 5,
+    "replayability": 5,
+    "learnFromIt": "Yes",
+    "socialConnection": "Yes",
+    "getsHeartRateUp": "Yes",
+    "canDoOutside": "Yes",
+    "relatedActivities": ["Skiing", "Cross-Country Skiing"]
+  },
+  {
+    "id": 103,
+    "name": "Skiing",
+    "physicalStrain": 4,
+    "coordinationRequired": 4,
+    "minParticipants": 1,
+    "maxParticipants": 20,
+    "cost": "$60.00",
+    "travelRequired": "Yes",
+    "equipmentNeeded": "Yes",
+    "timeRequired": "4:00:00",
+    "fun": 5,
+    "replayability": 5,
+    "learnFromIt": "Yes",
+    "socialConnection": "Yes",
+    "getsHeartRateUp": "Yes",
+    "canDoOutside": "Yes",
+    "relatedActivities": ["Snowboarding", "Cross-Country Skiing"]
+  },
+  {
+    "id": 104,
+    "name": "Longboarding",
+    "physicalStrain": 3,
+    "coordinationRequired": 3,
+    "minParticipants": 1,
+    "maxParticipants": 10,
+    "cost": "$0.00",
+    "travelRequired": "No",
+    "equipmentNeeded": "Yes",
+    "timeRequired": "1:30:00",
+    "fun": 4,
+    "replayability": 5,
+    "learnFromIt": "Yes",
+    "socialConnection": "Yes",
+    "getsHeartRateUp": "Yes",
+    "canDoOutside": "Yes",
+    "relatedActivities": ["Skateboarding", "Bike Ride"]
+  },
+  {
+    "id": 105,
+    "name": "Nerf Battle",
+    "physicalStrain": 3,
+    "coordinationRequired": 3,
+    "minParticipants": 4,
+    "maxParticipants": 20,
+    "cost": "$30.00",
+    "travelRequired": "No",
+    "equipmentNeeded": "Yes",
+    "timeRequired": "1:30:00",
+    "fun": 5,
+    "replayability": 5,
+    "learnFromIt": "No",
+    "socialConnection": "Yes",
+    "getsHeartRateUp": "Yes",
+    "canDoOutside": "Yes",
+    "relatedActivities": ["Laser Tag", "Capture the Flag"]
+  },
+  {
+    "id": 106,
+    "name": "Go-Kart Racing",
+    "physicalStrain": 2,
+    "coordinationRequired": 3,
+    "minParticipants": 2,
+    "maxParticipants": 12,
+    "cost": "$35.00",
+    "travelRequired": "Yes",
+    "equipmentNeeded": "No",
+    "timeRequired": "1:30:00",
+    "fun": 5,
+    "replayability": 5,
+    "learnFromIt": "No",
+    "socialConnection": "Yes",
+    "getsHeartRateUp": "Yes",
+    "canDoOutside": "Yes",
+    "relatedActivities": ["Laser Tag"]
+  },
+  {
+    "id": 107,
+    "name": "Thrift Store Thrifting",
+    "physicalStrain": 1,
+    "coordinationRequired": 1,
+    "minParticipants": 1,
+    "maxParticipants": 6,
+    "cost": "$20.00",
+    "travelRequired": "Yes",
+    "equipmentNeeded": "No",
+    "timeRequired": "2:00:00",
+    "fun": 4,
+    "replayability": 5,
+    "learnFromIt": "Yes",
+    "socialConnection": "Yes",
+    "getsHeartRateUp": "No",
+    "canDoOutside": "No",
+    "relatedActivities": ["Farmers Market"]
+  },
+  {
+    "id": 108,
+    "name": "Hot Sauce Challenge",
+    "physicalStrain": 1,
+    "coordinationRequired": 1,
+    "minParticipants": 2,
+    "maxParticipants": 10,
+    "cost": "$15.00",
+    "travelRequired": "No",
+    "equipmentNeeded": "No",
+    "timeRequired": "0:30:00",
+    "fun": 5,
+    "replayability": 4,
+    "learnFromIt": "No",
+    "socialConnection": "Yes",
+    "getsHeartRateUp": "No",
+    "canDoOutside": "Yes",
+    "relatedActivities": ["Cooking Night", "Baking"]
+  },
+  {
+    "id": 109,
+    "name": "Barbequing",
+    "physicalStrain": 2,
+    "coordinationRequired": 2,
+    "minParticipants": 2,
+    "maxParticipants": 20,
+    "cost": "$30.00",
+    "travelRequired": "No",
+    "equipmentNeeded": "Yes",
+    "timeRequired": "2:00:00",
+    "fun": 5,
+    "replayability": 5,
+    "learnFromIt": "Yes",
+    "socialConnection": "Yes",
+    "getsHeartRateUp": "No",
+    "canDoOutside": "Yes",
+    "relatedActivities": ["Cooking Night", "Picnic"]
+  },
+  {
+    "id": 110,
+    "name": "Slacklining",
+    "physicalStrain": 3,
+    "coordinationRequired": 5,
+    "minParticipants": 1,
+    "maxParticipants": 6,
+    "cost": "$40.00",
+    "travelRequired": "No",
+    "equipmentNeeded": "Yes",
+    "timeRequired": "1:00:00",
+    "fun": 4,
+    "replayability": 5,
+    "learnFromIt": "Yes",
+    "socialConnection": "Yes",
+    "getsHeartRateUp": "Yes",
+    "canDoOutside": "Yes",
+    "relatedActivities": ["Skateboarding", "Yoga Class"]
+  },
+  {
+    "id": 111,
+    "name": "Trampoline Park",
+    "physicalStrain": 4,
+    "coordinationRequired": 3,
+    "minParticipants": 1,
+    "maxParticipants": 20,
+    "cost": "$25.00",
+    "travelRequired": "Yes",
+    "equipmentNeeded": "No",
+    "timeRequired": "1:30:00",
+    "fun": 5,
+    "replayability": 5,
+    "learnFromIt": "No",
+    "socialConnection": "Yes",
+    "getsHeartRateUp": "Yes",
+    "canDoOutside": "No",
+    "relatedActivities": ["Indoor Rock Climbing", "Laser Tag"]
   }
 ]

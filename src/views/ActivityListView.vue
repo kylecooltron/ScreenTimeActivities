@@ -7,35 +7,35 @@
       <table>
         <thead>
           <tr>
-            <th>Activity</th>
-            <th title="Physical strain 1-5">Strain</th>
-            <th title="Coordination required 1-5">Coord.</th>
-            <th>Min</th>
-            <th>Max</th>
-            <th>Cost</th>
-            <th>Travel</th>
-            <th>Time</th>
-            <th title="Fun rating 1-5">Fun</th>
-            <th title="Replayability 1-5">Replay</th>
-            <th>Learn</th>
-            <th>Social</th>
-            <th>♥ Rate</th>
-            <th>Outside</th>
+            <th @click="sort('name')" :class="sortClass('name')">Activity</th>
+            <th @click="sort('physicalStrain')" :class="sortClass('physicalStrain')" title="Physical strain 1-5">Strain</th>
+            <th @click="sort('coordinationRequired')" :class="sortClass('coordinationRequired')" title="Coordination required 1-5">Coord.</th>
+            <th @click="sort('minParticipants')" :class="sortClass('minParticipants')">Min</th>
+            <th @click="sort('maxParticipants')" :class="sortClass('maxParticipants')">Max</th>
+            <th @click="sort('cost')" :class="sortClass('cost')">Cost</th>
+            <th @click="sort('travelRequired')" :class="sortClass('travelRequired')">Travel</th>
+            <th @click="sort('timeRequired')" :class="sortClass('timeRequired')">Time</th>
+            <th @click="sort('fun')" :class="sortClass('fun')" title="Fun rating 1-5">Fun</th>
+            <th @click="sort('replayability')" :class="sortClass('replayability')" title="Replayability 1-5">Replay</th>
+            <th @click="sort('learnFromIt')" :class="sortClass('learnFromIt')">Learn</th>
+            <th @click="sort('socialConnection')" :class="sortClass('socialConnection')">Social</th>
+            <th @click="sort('getsHeartRateUp')" :class="sortClass('getsHeartRateUp')">♥ Rate</th>
+            <th @click="sort('canDoOutside')" :class="sortClass('canDoOutside')">Outside</th>
             <th>Related</th>
           </tr>
         </thead>
         <tbody>
-          <tr v-for="activity in activities" :key="activity.id">
+          <tr v-for="activity in sortedActivities" :key="activity.id">
             <td class="name-cell">{{ activity.name }}</td>
-            <td><span class="rating-dots" :title="`${activity.physicalStrain}/5`">{{ dots(activity.physicalStrain) }}</span></td>
-            <td><span class="rating-dots" :title="`${activity.coordinationRequired}/5`">{{ dots(activity.coordinationRequired) }}</span></td>
+            <td><span class="rating-dots" :title="`${activity.physicalStrain}/5`"><span class="star-filled">{{ '⭐'.repeat(activity.physicalStrain) }}</span><span class="star-empty">{{ '☆'.repeat(5 - activity.physicalStrain) }}</span></span></td>
+            <td><span class="rating-dots" :title="`${activity.coordinationRequired}/5`"><span class="star-filled">{{ '⭐'.repeat(activity.coordinationRequired) }}</span><span class="star-empty">{{ '☆'.repeat(5 - activity.coordinationRequired) }}</span></span></td>
             <td class="center">{{ activity.minParticipants }}</td>
             <td class="center">{{ activity.maxParticipants }}</td>
-            <td>{{ activity.cost }}</td>
+            <td>{{ activity.cost === '$0.00' ? '' : activity.cost }}</td>
             <td class="center"><span :class="['badge', activity.travelRequired === 'Yes' ? 'badge-yellow' : 'badge-green']">{{ activity.travelRequired }}</span></td>
-            <td>{{ activity.timeRequired }}</td>
-            <td><span class="rating-dots" :title="`${activity.fun}/5`">{{ dots(activity.fun) }}</span></td>
-            <td><span class="rating-dots" :title="`${activity.replayability}/5`">{{ dots(activity.replayability) }}</span></td>
+            <td>{{ activity.timeRequired.slice(0, -3) }}</td>
+            <td><span class="rating-dots" :title="`${activity.fun}/5`"><span class="star-filled">{{ '⭐'.repeat(activity.fun) }}</span><span class="star-empty">{{ '☆'.repeat(5 - activity.fun) }}</span></span></td>
+            <td><span class="rating-dots" :title="`${activity.replayability}/5`"><span class="star-filled">{{ '⭐'.repeat(activity.replayability) }}</span><span class="star-empty">{{ '☆'.repeat(5 - activity.replayability) }}</span></span></td>
             <td class="center"><span :class="['badge', activity.learnFromIt === 'Yes' ? 'badge-blue' : 'badge-gray']">{{ activity.learnFromIt }}</span></td>
             <td class="center"><span :class="['badge', activity.socialConnection === 'Yes' ? 'badge-purple' : 'badge-gray']">{{ activity.socialConnection }}</span></td>
             <td class="center"><span :class="['badge', activity.getsHeartRateUp === 'Yes' ? 'badge-red' : 'badge-gray']">{{ activity.getsHeartRateUp }}</span></td>
@@ -50,11 +50,41 @@
 </template>
 
 <script setup>
+import { ref, computed } from 'vue'
 import activities from '../data/activities.json'
 
-function dots(n) {
-  return '●'.repeat(n) + '○'.repeat(5 - n)
+const sortKey = ref('name')
+const sortDir = ref(1)
+
+function sort(key) {
+  if (sortKey.value === key) {
+    sortDir.value *= -1
+  } else {
+    sortKey.value = key
+    sortDir.value = 1
+  }
 }
+
+function sortClass(key) {
+  if (sortKey.value !== key) return 'sortable'
+  return sortDir.value === 1 ? 'sortable sort-asc' : 'sortable sort-desc'
+}
+
+const sortedActivities = computed(() => {
+  return [...activities].sort((a, b) => {
+    let av = a[sortKey.value]
+    let bv = b[sortKey.value]
+    if (sortKey.value === 'cost') {
+      av = parseFloat(av.replace('$', ''))
+      bv = parseFloat(bv.replace('$', ''))
+    }
+    if (av < bv) return -1 * sortDir.value
+    if (av > bv) return 1 * sortDir.value
+    return 0
+  })
+})
+
+
 </script>
 
 <style scoped>
@@ -93,6 +123,25 @@ thead th {
   top: 0;
 }
 
+thead th.sortable {
+  cursor: pointer;
+  user-select: none;
+}
+
+thead th.sortable:hover {
+  background: #3a8a65;
+}
+
+thead th.sort-asc::after {
+  content: ' ▲';
+  font-size: 0.65rem;
+}
+
+thead th.sort-desc::after {
+  content: ' ▼';
+  font-size: 0.65rem;
+}
+
 tbody tr:nth-child(even) {
   background: #f7fbf8;
 }
@@ -122,6 +171,14 @@ td {
   letter-spacing: 1px;
   color: #2d6a4f;
   white-space: nowrap;
+}
+
+.star-filled {
+  font-size: 0.5rem;
+}
+
+.star-empty {
+  font-size: 0.7rem;
 }
 
 .badge {
